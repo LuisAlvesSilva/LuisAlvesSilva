@@ -34,7 +34,7 @@ My name is Luis Fernando!
 </h1>
 IT analyst with 3 years of experience in the IT area in general, including support, networks and IT sectors. Being able to create network servers and perform maintenance, computer maintenance, user training, perform data  analysis, extracting and cleaning data, and develop websites and  systems, using UML and programming languages ​​such as Python and Java. And my dream is to get a house with my babe.</p>
 
-[![Linkedin](https://imagensfree.com.br/wp-content/uploads/2022/06/icone-linkedin-azul-png-635-2-300x255.png))](https://www.linkedin.com/in/luis-fernando-alves-da-silva-319518137/)
+<!--[![Linkedin](https://imagensfree.com.br/wp-content/uploads/2022/06/icone-linkedin-azul-png-635-2-300x255.png))](https://www.linkedin.com/in/luis-fernando-alves-da-silva-319518137/)-->
 
 
 <h2 style="font-size:100px"> 🖥️ Technologies and Tools: </h2>
