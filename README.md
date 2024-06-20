@@ -1,7 +1,7 @@
 <!-- ###    Hi everyone, i'm Luis Fernando. 👋
 
-- 🌱 I’m currently learning Python, Java and Html
-- ⚡ Fun fact: Acctualy i'm work in sector of the support, but I am studying to get out of this area as quickly as possible.
+- 🌱 I’m currently learning JavaScript, Html, CSS, PHP and SQL Server.
+- ⚡ Actually i'm work Business Intelligence Analyst
 
 <br/>
 
