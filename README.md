@@ -27,8 +27,8 @@
 Procurando aprender cada vez mais e  sempre me destacar, estou no 1º período em Analise e Desenvolvimento de Sistemas.
 
 https://dev.to/envoy_/150-badges-for-github-pnk -->
-<h1> Hello Guys!</h1>
-IT analyst with 3 years of experience in the IT area in general, including support, networks and IT sectors. Being able to create network servers and perform maintenance, computer maintenance, user training, perform data  analysis, extracting and cleaning data, and develop websites and  systems, using UML and programming languages ​​such as Python and Java. And my dream is to get a house with my babe.</p>
+<h1> Hello Guys!👋 I'm Luis Alves</h1>
+IT analyst with 3 years of experience in the IT area in general, including support, networks and IT sectors. And actually i'm work Business Intelligence Analyst. Being able to create network servers and perform maintenance, computer maintenance, user training, perform data analysis, extracting and cleaning data, and develop websites and systems, using UML and programming languages ​​such as Python, JavaScript, SQL and actually im studying PHP.</p>
 
 <!--[![Linkedin](https://imagensfree.com.br/wp-content/uploads/2022/06/icone-linkedin-azul-png-635-2-300x255.png))](https://www.linkedin.com/in/luis-fernando-alves-da-silva-319518137/)-->
 
