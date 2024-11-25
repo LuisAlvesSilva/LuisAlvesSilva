@@ -1,4 +1,7 @@
-# Resume
+## Summary
+Data Analyst with intermediate/advanced knowledge in Power BI, Report, and SQL;  
+basic/intermediate skills in Python; basic knowledge in PHP;  
+and intermediate proficiency in Javascript. Extensive experience in general IT.
 
 ## Key Skills
 - Data Manipulation
@@ -14,10 +17,6 @@
 - Cybersecurity Essentials
 - Responsive Web Design
 
-## Summary
-Data Analyst with intermediate/advanced knowledge in Power BI, Report, and SQL;  
-basic/intermediate skills in Python; basic knowledge in PHP;  
-and intermediate proficiency in Javascript. Extensive experience in general IT.
 
 ## Experience
 
