@@ -3,11 +3,6 @@ Data Analyst with intermediate/advanced knowledge in Power BI, Report, and SQL;
 basic/intermediate skills in Python; basic knowledge in PHP;  
 and intermediate proficiency in Javascript. Extensive experience in general IT.
 
-## Key Skills
-- Data Manipulation
-- Dashboards
-- Report Development
-
 ## Languages
 - English (Limited Working)
 - Spanish (Elementary)
