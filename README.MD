@@ -1,3 +1,28 @@
+```
+class UserProfile:
+
+    def __init__(self):
+        self.username = None  # Nickname ainda não definido
+        self.name = 'Luis Fernando Alves'
+        self.position = 'Analista de Dados / Desenvolvedor Fullstack'
+        self.code = {
+            'backend': ['PHP', 'Java (em estudo)', 'Python', 'SQL'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite'],
+            'frontend': ['JavaScript', 'HTML', 'CSS'],
+            'tools': ['Pandas', 'Jupyter Notebook', 'Power BI', 'Excel'],
+            'misc': ['Data Analysis', 'Visualization', 'MBTI - ISTJ-A']
+        }
+        self.architecture = ['MVC', 'Serverless']
+
+    def __str__(self):
+        return f'{self.name} | {self.position}'
+
+
+if __name__ == '__main__':
+    me = UserProfile()
+    print(me)
+
+```
 ## Summary
 Data Analyst with intermediate/advanced knowledge in Power BI, Report, and SQL;  
 basic/intermediate skills in Python; basic knowledge in PHP;  
