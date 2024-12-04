@@ -4,13 +4,13 @@ class UserProfile:
     def __init__(self):
         self.username = None  # Nickname ainda não definido
         self.name = 'Luis Fernando Alves'
-        self.position = 'Analista de Dados / Desenvolvedor Fullstack'
+        self.position = 'Fullstack Developer | Data Analyst'
         self.code = {
-            'backend': ['PHP', 'Java (em estudo)', 'Python', 'SQL'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite'],
+            'backend': ['PHP', 'Java (under study)', 'Python'],
+            'database': ['PostgreSQL', 'MsSQL', 'SQLite'],
             'frontend': ['JavaScript', 'HTML', 'CSS'],
-            'tools': ['Pandas', 'Jupyter Notebook', 'Power BI', 'Excel'],
-            'misc': ['Data Analysis', 'Visualization', 'MBTI - ISTJ-A']
+            'tools': ['Jupyter Notebook', 'Power BI', 'Excel'],
+            'misc': ['MBTI - ISTJ-A']
         }
         self.architecture = ['MVC', 'Serverless']
 
