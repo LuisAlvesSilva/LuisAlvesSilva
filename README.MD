@@ -23,12 +23,7 @@ if __name__ == '__main__':
     print(me)
 
 ```
-<details>
-  <summary><b>Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://https://github.com/LuisAlvesSilva">[![Luis Alves Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisAlvesSilva)](https://github.com/anuraghazra/github-readme-stats)</a>
-  <br/>
-</details>
+[![Luis Alves Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisAlvesSilva)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages
 - English (Limited Working)
 - Spanish (Elementary)
