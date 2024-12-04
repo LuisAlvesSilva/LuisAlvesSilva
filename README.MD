@@ -24,9 +24,9 @@ if __name__ == '__main__':
 
 ```
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://https://github.com/LuisAlvesSilva"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LuisAlvesSilva&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://https://github.com/LuisAlvesSilva">[(https://github-readme-stats.vercel.app/api?username=LuisAlvesSilva)]</a>
   <br/>
 </details>
 ## Languages
