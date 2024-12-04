@@ -2,7 +2,7 @@
 class UserProfile:
 
     def __init__(self):
-        self.username = None  # Nickname ainda não definido
+        self.username = Dev LAlves
         self.name = 'Luis Fernando Alves'
         self.position = 'Fullstack Developer | Data Analyst'
         self.code = {
@@ -23,7 +23,9 @@ if __name__ == '__main__':
     print(me)
 
 ```
+
 [![Luis Alves Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisAlvesSilva)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages
 - English (Limited Working)
 - Spanish (Elementary)
