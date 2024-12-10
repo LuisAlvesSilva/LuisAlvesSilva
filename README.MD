@@ -10,7 +10,7 @@ class UserProfile:
             'database': ['PostgreSQL', 'MsSQL', 'SQLite'],
             'frontend': ['JavaScript', 'HTML', 'CSS'],
             'tools': ['Jupyter Notebook', 'Power BI', 'Excel'],
-            'misc': ['MBTI - ISTJ-A']
+            'misc': ['MBTI - ISTP']
         }
         self.architecture = ['MVC', 'Serverless']
 
