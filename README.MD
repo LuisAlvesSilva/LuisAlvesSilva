@@ -36,5 +36,5 @@ if __name__ == '__main__':
 - Responsive Web Design
 
 ## Education
-- **Centro Universitário Una** - Bachelor's degree in Systems Analysis and Development (January 2023 - December 2025)
+- **Centro Universitário Una** - Bachelor's degree in Systems Analysis and Development (January 2023 - June 2025)
 - **Senac Minas** - Technical degree in Computer Networks (2017 - 2018)
